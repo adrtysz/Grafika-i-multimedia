@@ -21,23 +21,23 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e){
 
-            Bitmap bmp = new Bitmap(@"C:\Users\Adżi\source\repos\WindowsFormsApp1\WindowsFormsApp1\green1.png");
+            Bitmap bmp = new Bitmap(@"C:\Users\Adżi\source\repos\adrtysz\Grafika-i-multimedia\GreenScreen remover\WindowsFormsApp1\green1.png");
                
-            for (int y = 0; y < bmp.Height; y++){
-                for (int x = 0; x < bmp.Width; x++){
+            for (int i = 0; i < bmp.Height; i++){
+                for (int j = 0; j < bmp.Width; j++){
 
-                    Color c = bmp.GetPixel(x, y);
+                    Color pixel = bmp.GetPixel(j, i);
 
-                    double Pb = -0.168736 * c.R - 0.331264 * c.G + 0.5 * c.B;
-                    double Pr = 0.5 * c.R - 0.418688 * c.G - 0.081312 * c.B;
+                    double Pb = -0.168736 * pixel.R - 0.331264 * pixel.G + 0.5 * pixel.B;
+                    double Pr = 0.5 * pixel.R - 0.418688 * pixel.G - 0.081312 * pixel.B;
 
-                    int cMax = Math.Max(Math.Max(c.R, c.G), c.B);
-                    int cMin = Math.Min(Math.Min(c.R, c.G), c.B);
-                    if (c.G != cMin && (c.G == cMax || cMax - c.G < 8) && (cMax - cMin) > 25)
+                    int pixelMax = Math.Max(Math.Max(pixel.R, pixel.G), pixel.B);
+                    int pixelMin = Math.Min(Math.Min(pixel.R, pixel.G), pixel.B);
+                    if (pixel.G != pixelMin && (pixel.G == pixelMax || pixelMax - pixel.G < 30) && (pixelMax - pixelMin) > 70)
                     {
-                        c = Color.White;
+                        pixel = Color.White;
 
-                        bmp.SetPixel(x, y, c);
+                        bmp.SetPixel(j, i, pixel);
                     }
                 }
             }
@@ -45,5 +45,7 @@ namespace WindowsFormsApp1
 
             pictureBox1.Image = bmp;
         }
+
+       
     }
 }

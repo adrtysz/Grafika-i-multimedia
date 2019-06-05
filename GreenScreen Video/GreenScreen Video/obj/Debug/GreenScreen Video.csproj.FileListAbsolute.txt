@@ -1,0 +1,31 @@
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\GreenScreen Video.exe.config
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\GreenScreen Video.exe
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\GreenScreen Video.pdb
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Controls.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Imaging.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Math.dll
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Controls.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Imaging.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\bin\Debug\AForge.Math.xml
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\obj\Debug\GreenScreen Video.csprojAssemblyReference.cache
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\obj\Debug\GreenScreen_Video.Form1.resources
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\obj\Debug\GreenScreen_Video.Properties.Resources.resources
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\obj\Debug\GreenScreen Video.csproj.GenerateResource.cache
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\obj\Debug\GreenScreen Video.csproj.CoreCompileInputs.cache
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\obj\Debug\GreenScreen Video.csproj.CopyComplete
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\obj\Debug\GreenScreen Video.exe
+C:\Users\Adżi\source\repos\GreenScreen Video\GreenScreen Video\obj\Debug\GreenScreen Video.pdb
